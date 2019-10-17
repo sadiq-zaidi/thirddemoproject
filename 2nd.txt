@@ -1,0 +1,1 @@
+Trying to add another file using smart git.
