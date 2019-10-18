@@ -1,3 +1,4 @@
+Doing change in dev in this file to create conflict.
 Trying to add another file using smart git.
 
 wow it is easy to operate
