@@ -3,3 +3,5 @@ Hello World!
 A new line is added.
 
 another change
+
+This is new file changes in master branch
