@@ -4,3 +4,5 @@ Trying to add another file using smart git.
 
 wow it is easy to operate
 Applying first stash
+
+Change
